@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1636390729 source:c:\xampp\htdocs\project 3\banks\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<stdlib.h>
+	<cstring>
+	<algorithm>
+
+1638016847 source:c:\xampp\htdocs\faizan bank - project\banks\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	<bits/stdc++.h>
+	<string>
+	<stdlib.h>
+	<cstring>
+	<algorithm>
+
